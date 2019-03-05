@@ -1,0 +1,2 @@
+# Disorder-Recognizer
+This project aims to recognize disorders from biomedical text for the purposes of cohort-building and query-based case retrieval. The General Disorder Recognizer (GDR) detects general disorders from biomedical text, and maps them to their respective Concept Unique Identifiers (CUIs) in the Unified Medical Language System (UMLS). The Specific Disorder Recognizer (SDR) detects specific disorders that map to a custom-made or automatically-generated list of CUIs.
